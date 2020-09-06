@@ -32,20 +32,20 @@ Hope all of you have gone through the videos that we have provided and hope now 
       
 INPUT:
   
-Enter name : Abc
-Id: 244578
-Age : 20
-Address: abc house,street no 123
-Gender F/M: F
-Total Marks: 248.55
+       Enter name : Abc
+       Id: 244578
+       Age : 20
+       Address: abc house,street no 123
+       Gender F/M: F
+       Total Marks: 248.55
 
 OUTPUT:
   
-Name : Abc
-Id: 244578
-Age : 20
-Address: abc house,street no 123
-Gender F/M: F
-Total Marks: 248.55
+       Name : Abc
+       Id: 244578
+       Age : 20
+       Address: abc house,street no 123
+       Gender F/M: F
+       Total Marks: 248.55
 
 Save the code and attach the  screenshot of output in a doc and share the link to the SHE BOT as :  \task `link`
