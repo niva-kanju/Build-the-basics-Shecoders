@@ -33,7 +33,7 @@ Let's Build the Base
 Is there anyone without a lap and anyone that doesn't have an IDE set upped or don't know to code in terminal?
 You can either use an IDE or terminal,online compilers are also available.
 Try this one:
-[GitHub](onlinegdb.com/online_c_compiler)
+[GDB Online Debugger](onlinegdb.com/online_c_compiler)
 
 Or you can setup and use different IDEs
 
