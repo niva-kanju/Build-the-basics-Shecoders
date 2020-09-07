@@ -26,15 +26,15 @@ Take 2 numbers as input and perform all the basic arithmetic operations.
 
 INPUT:
 
-  Enter 2 numbers: 4
-  2
+			Enter 2 numbers: 4
+			2
 
 OUTPUT:
 
-  4 + 2= 6
-  4-2 = 2
-  4*2 = 8
-  4/2 = 2
-  4%2 =0
+				4 + 2= 6
+				4-2 = 2
+				4*2 = 8
+				4/2 = 2
+				4%2 =0
 
 Happy coding :)
