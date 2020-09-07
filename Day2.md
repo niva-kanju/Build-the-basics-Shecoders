@@ -18,7 +18,9 @@ Let's go through the following operations today
 
 Watch these videos and ask if have any doubts :)
 
-#### Task
+
+
+## Task
 
 Seems you guys got a clearcut idea of operators in C.
 Time to do a simple task
