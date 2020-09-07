@@ -1,4 +1,4 @@
-## Day 2
+# Day 2
 
 Good morning girls
 Hope you've got a clear idea on yesterday's topics. Today onwards ,we will be discussing on operators in C.
@@ -24,12 +24,12 @@ Seems you guys got a clearcut idea of operators in C.
 Time to do a simple task
 Take 2 numbers as input and perform all the basic arithmetic operations.
 
-  INPUT:
+INPUT:
 
   Enter 2 numbers: 4
   2
 
-  OUTPUT:
+OUTPUT:
 
   4 + 2= 6
   4-2 = 2
