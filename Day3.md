@@ -32,7 +32,7 @@ Today there is no task instead a small quiz of 10 questions..so everyone please 
 - unary+ 
 - '*'
 - '>='
-- ==
+- '=='
 3. What will be output of the following C code?       
 	int x=4, y, z;    y = --x;    z = x--;    printf(""%d, %d, %d\n"", x, y, z);
 4. What is the output of Left Shift Operator << on (00011000<<2).?	
