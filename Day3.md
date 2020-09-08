@@ -1,3 +1,6 @@
+# Day 3
+
+
 Hello girls
 So now we know the method of doing arithmetic,relational and logic operations in C.
 Hope that you have attended the last task too
@@ -16,3 +19,7 @@ Watch the videos and understand.
 
 Don't lose interest seeing the number of videos.Altogether it is about some 10minutes.
 Feel free to ask your doubts after watching.
+
+
+
+## Task
