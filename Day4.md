@@ -24,7 +24,7 @@ Go through these tutorials and try to understand well.
 
 Seems you guys are set for todays task. 
 
-Take two numbers as user input find which one is greater using conditional operato and print the size of that number.
+Take two numbers as user input find which one is greater using conditional operator and print the size of that number.
 
 INPUT:
       Enter 2 numbers : 8 5
