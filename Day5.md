@@ -19,6 +19,12 @@ Go through these and understand the concept. Ask doubts if any.
 
 ## Task
 
+Quiz time...
+
+Hope you guys went through the tutorials.So lets take a small quiz based on todays topics
+
+Link : https://forms.gle/N5WsPKtyvRJFnc5z7
+
 1. Which is a valid typecast?
 * a(char);
 * char:a;
