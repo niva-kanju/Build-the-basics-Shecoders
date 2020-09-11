@@ -1,3 +1,6 @@
+# Day 6
+
+
 Hi all..so let's discuss something interesting today. All of you may have heard and used conditional statements in C,like if else and all.
 
 Conditional statements, as Google says ,help you to make a decision based on certain conditions. These conditions are specified by a set of conditional statements having boolean expressions which are evaluated to a boolean value true or false. It  helps us to decide whether a part of the program is to be executed or not by applying a condition.
@@ -22,12 +25,12 @@ Hey all time to do some code.There is 3 questions take your time and do it.Pleas
 
 INPUT:
 
-Enter 2 numbers : 8 5
+	Enter 2 numbers : 8 5
 
-1. Addition
-2.Subtraction
-3.Multiplication
-Choose one option : 3
+	1. Addition
+	2. Subtraction
+	3. Multiplication
+	Choose one option : 3
 
 OUTPUT:
-40
+	40
