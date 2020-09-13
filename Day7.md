@@ -12,3 +12,10 @@ Hi guys hope that all of you had enough time to complete yesterday's task, those
 
 So today you had a small tutorial on jump statements thus lets take a small quiz.Here is the link 😌👇
 https://forms.gle/xJ2MHGKLTFhmcN886
+
+
+
+Goto statement is also a jumb statement.It was mentioned in the quiz.
+
+https://www.geeksforgeeks.org/goto-statement-in-c-cpp/
+Do check this site to know the usage of goto statement.
