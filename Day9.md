@@ -26,20 +26,20 @@ Girls, i think that you are now clear with concept of coding..So let us try to d
  
 1. Print fibnocci series 
 
-INPUT:
+	INPUT:
 
-Enter the limit : 5
+	Enter the limit : 5
 
-OUTPUT:
+	OUTPUT:
 
-0 1 1 2 3 
+	0 1 1 2 3 
 
 2. Print the pattern
 
-*
-**
-***
-*****
+		*
+		**
+		***
+		*****
 Limit as user specifies
 
 So happy coding:)
