@@ -22,8 +22,8 @@ Go through these videos and understand the concepts. Clear your doubts here.
 
 ## Task
 
-Girls, i think that you are now clear with the concept of looping..So let us try to do some program using loops.
-
+Girls, i think that you are now clear with concept of coding..So let us try to do some program using loops.
+ 
 1. Print fibnocci series 
 
 INPUT:
@@ -37,9 +37,9 @@ OUTPUT:
 2. Print the pattern
 
 *
-
-*
-*
+**
+***
+*****
 Limit as user specifies
 
-So happy coding
+So happy coding:)
