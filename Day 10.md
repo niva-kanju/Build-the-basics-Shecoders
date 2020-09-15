@@ -10,8 +10,10 @@ After various Iteration statements ,it is time for us to check the working of Ar
 Array is a data structure consisting of a collection of elements, each identified by at least one array index or key.
 Go through these videos quickly and have a clear idea on arrays
 
-https://youtu.be/VJa5EvDC9Cs
-https://youtu.be/GtcRReso9Xk
+- https://youtu.be/VJa5EvDC9Cs
+- https://youtu.be/GtcRReso9Xk
+
+
 
 
 ## Task
