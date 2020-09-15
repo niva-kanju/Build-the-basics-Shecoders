@@ -6,7 +6,7 @@ How is the experience of coding? I hope atleast few of you are enjoying it while
 And yes, you guys are awesome coz you could do this much in this short period of time.Kudos for your effort!!!
 
 So girls...
-After various Iteration statements ,it is time for us to check the working of Array.
+After various Iteration statements ,it is time for us to check the working of **Array**.
 Array is a data structure consisting of a collection of elements, each identified by at least one array index or key.
 Go through these videos quickly and have a clear idea on arrays
 
