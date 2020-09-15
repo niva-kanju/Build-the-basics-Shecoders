@@ -4,7 +4,7 @@
 ## Quick Links:
 
 - [Day 1](https://github.com/nivanjanapramod/Build-the-basics-Shecoders/blob/master/Day%201.md)
-- [Day 2]()
+- [Day 2](Day2.md)
 - [Day 3]()
 - [Day 4]()
 - [Day 5]()
