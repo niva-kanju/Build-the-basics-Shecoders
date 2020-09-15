@@ -3,7 +3,16 @@
 
 ## Quick Links:
 
-- [Day 1](Day 1.md)
+- [Day 1](https://github.com/nivanjanapramod/Build-the-basics-Shecoders/blob/master/Day%201.md)
+- [Day 2]()
+- [Day 3]()
+- [Day 4]()
+- [Day 5]()
+- [Day 6]()
+- [Day 7]()
+- [Day 8]()
+- [Day 9]()
+- [Day 10]()
 ## CONTEXT
 
 After having the review meet with members of SHECODERS ,we have come to know that many of them got stuck and stopped doing daily task due to lack of coding idea.
