@@ -1,5 +1,9 @@
 # Build-the-basics-Shecoders
 
+
+## Quick Links:
+
+- [Day 1](Day 1.md)
 ## CONTEXT
 
 After having the review meet with members of SHECODERS ,we have come to know that many of them got stuck and stopped doing daily task due to lack of coding idea.
