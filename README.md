@@ -3,7 +3,7 @@
 
 ## Quick Links:
 
-- [Day 1](Day 1.md)
+- [Day 1](Day1.md)
 - [Day 2](Day2.md)
 - [Day 3](Day3.md)
 - [Day 4](Day4.md)
@@ -12,7 +12,7 @@
 - [Day 7](Day7.md)
 - [Day 8](Day8.md)
 - [Day 9](Day9.md)
-- [Day 10](Day 10.md)
+- [Day 10](Day10.md)
 ## CONTEXT
 
 After having the review meet with members of SHECODERS ,we have come to know that many of them got stuck and stopped doing daily task due to lack of coding idea.
