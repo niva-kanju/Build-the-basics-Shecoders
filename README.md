@@ -1,5 +1,8 @@
 # Build-the-basics-Shecoders
 
+## Why this group?
+
+Build  the Basics is a learning group for SHECODERS Members of GCEK.It aims to learn from the real basics of a programming language,We have chosen C for that.Our vision is to build confidence in atleast few members of our SHE community to code,code and code!!!
 
 ## Quick Links:
 
