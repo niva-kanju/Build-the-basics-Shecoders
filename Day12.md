@@ -17,12 +17,12 @@ Now you might have noticed how one dimensional as well as two dimensional arrays
 Todays is a simple task comparing with the tutorial provided. And the task is to print all the words seperately within a string
 
 Test case: 
-					this is the input string
+	this is the input string
 
 Expected output:
 
-								this
-								is
-								the
-								input 
-								string
+	this
+	is
+	the
+	input 
+	string
