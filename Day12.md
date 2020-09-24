@@ -10,6 +10,7 @@ https://www.youtube.com/playlist?list=PLhwamR3PmxEHwc7eK_k9xog_5IAL852p_
 
 And guys ,as you suggest , today onwards we will provide you the tutorial and tasks together in the morning itself so you can complete it at anytime. Today's task will be here soon
 
+## Task
 
 
 Now you might have noticed how one dimensional as well as two dimensional arrays helps in traversing, splitting, combining strings , however string itself is a character array. Thus the concepts of arrays helps in generating most of the code over string.
