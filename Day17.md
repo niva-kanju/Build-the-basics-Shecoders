@@ -31,6 +31,7 @@ Go through the video slowly cos it is a little bit fast, pause and re-watch or d
 
 If you are so confused with the logic of linkedlist pause watching that and move to this one
 - https://youtu.be/dmb1i4oN5oE
+
 Then go back and complete it.
 
 And guys , pause and search if you feel unfamiliar with any topics in the video . Try to fill the gaps. Take your time .
