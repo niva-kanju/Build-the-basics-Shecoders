@@ -16,6 +16,16 @@ Build  the Basics is a learning group for SHECODERS Members of GCEK.It aims to l
 - [Day 8](Day8.md)
 - [Day 9](Day9.md)
 - [Day 10](Day10.md)
+- [Day 11](Day11.md)
+- [Day 12](Day12.md)
+- [Day 13](Day13.md)
+- [Day 14](Day14.md)
+- [Day 15](Day15.md)
+- [Day 16](Day16.md)
+- [Day 17](Day17.md)
+
+----
+
 ## CONTEXT
 
 After having the review meet with members of SHECODERS ,we have come to know that many of them got stuck and stopped doing daily task due to lack of coding idea.
@@ -23,7 +33,7 @@ So, we have taken some steps.
 One among that is to form a Telegram group for providing basic programming idea.
 Our basic motive behind this is to make them set to face coding problems.This group is for absolute beginners.
 
-
+----
 ## STRUCTURE
 
 Hi guys..so let's start by the next day
@@ -43,7 +53,7 @@ You can ask at any time,but this time is official for doubt clearance
 And Girls ,make sure that you spent time for this everyday.make sure that you take it seriously,so
 Let's Build the Base
 
-
+----
 ### Setting up the environment
 
 Is there anyone without a lap and anyone that doesn't have an IDE set upped or don't know to code in terminal?
