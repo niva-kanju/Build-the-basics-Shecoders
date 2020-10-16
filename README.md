@@ -23,6 +23,9 @@ Build  the Basics is a learning group for SHECODERS Members of GCEK.It aims to l
 - [Day 15](Day15.md)
 - [Day 16](Day16.md)
 - [Day 17](Day17.md)
+- [Day 18](Day18.md)
+- [Day 19](Day19.md)
+- [Day 20](Day20.md)
 
 ----
 
@@ -62,4 +65,11 @@ Try this one:
 [GDB Online Debugger](https://www.onlinegdb.com/online_c_compiler)
 
 Or you can setup and use different IDEs
+
+----
+### Final Competition
+
+As a final Step, we are planning to conduct a Coding Competition in Hackerrank!!
+
+We will provide you the details soon!!! Stay tuned!!!
 
