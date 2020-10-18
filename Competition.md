@@ -12,7 +12,7 @@ Get ready for our final competition.
 Questions will be so simple so all of you must attend.
 We will provide you with competition link soon
 
-> Date : 19/10/2020, Monday
+> Date : 20/10/2020, Tuesday
 
 > Time : 7PM
 
