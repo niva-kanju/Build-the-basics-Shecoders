@@ -71,5 +71,5 @@ Or you can setup and use different IDEs
 
 As a final Step, we planned to conduct a Coding Competition in Hackerrank!!
 
-You can find the details and winners in -[competetion](competition.md)
+You can find the details and winners in [competetion](competition.md)
 
