@@ -69,7 +69,7 @@ Or you can setup and use different IDEs
 ----
 ### Final Competition
 
-As a final Step, we are planning to conduct a Coding Competition in Hackerrank!!
+As a final Step, we planned to conduct a Coding Competition in Hackerrank!!
 
-We will provide you the details soon!!! Stay tuned!!!
+You can find the details and winners in -[competetion](competition.md)
 
