@@ -26,6 +26,7 @@ Build  the Basics is a learning group for SHECODERS Members of GCEK.It aims to l
 - [Day 18](Task_&_Tutorial/Day18.md)
 - [Day 19](Task_&_Tutorial/Day19.md)
 - [Day 20](Task_&_Tutorial/Day20.md)
+- [Submissions](https://docs.google.com/spreadsheets/d/1o6jHbkZGxqTqwyl7vsrUXqefGwwFTc30JKBG4ZjhLSc/edit?usp=sharing)
 
 ----
 
