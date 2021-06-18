@@ -70,6 +70,6 @@ Or you can setup and use different IDEs
 ### Final Competition
 
 As a final Step, we planned to conduct a Coding Competition in Hackerrank!!
-
-You can find the details and winners in [competetion](competition.md)
+Jilna P V and Athira P of 2K19 CE are the two that completed most of all the tasks and take part in final hackerrank test.  
+You can find the details and winners [here](competition.md)
 
